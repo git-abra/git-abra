@@ -1,9 +1,10 @@
 ## Hi there, I am Adrian 👋
 
-My background is in business-, bio- and neuroinformatics.  
+My background is i.a. in business-, bio- and neuroinformatics.  
 I enjoy abstract thinking or planning, optimizing all the things for efficiency as well as automating what can feasibly be automated.
-My drive is to take part in enabling new communication methods via Brain Computer Interfaces to increase 
-communication speed and quality, learning rate and ultimately education levels.
+
+
+My drive is to eventually take part in enabling novel communication methods via Brain Computer Interfaces to increase communication speed, quality and scope thereby enhancing learning rate and education levels, among other things.
 ___
 
 - Master's degree in bioinformatics, thesis about neuronal simulations.
