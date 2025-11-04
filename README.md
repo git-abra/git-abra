@@ -2,8 +2,8 @@
 
 My background is in business-, bio- and neuroinformatics.  
 I enjoy abstract thinking or planning, optimizing all the things for efficiency as well as automating what can feasibly be automated.
-My ultimate drive is to take part in enabling new communication methods via Brain Computer Interfaces to increase 
-communication speed and quality, learning rate and education level.
+My drive is to take part in enabling new communication methods via Brain Computer Interfaces to increase 
+communication speed and quality, learning rate and ultimately education levels.
 ___
 
 - Master's degree in bioinformatics, thesis about neuronal simulations.
