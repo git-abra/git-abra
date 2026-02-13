@@ -1,5 +1,3 @@
-## Hi there, I am Adrian 👋
-
 My background is i.a. in business-, bio- and neuroinformatics.  
 I enjoy abstract thinking or planning, optimizing all the things for efficiency as well as automating what can feasibly be automated.
 
@@ -15,5 +13,3 @@ ___
 You can contact me via [email](mailto:bioinfneuro@gmail.com)
 
 >If u throw things at me, most will stick.
-
-[Researchgate](https://www.researchgate.net/profile/Adrian-Roeth)
